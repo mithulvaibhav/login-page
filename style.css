@@ -20,7 +20,7 @@ padding:25px ;
  font-family: Georgia, 'Times New Roman', Times, serif;}
 .data{display: flex;justify-content: space-between;
     align-items: center; flex-direction:column;
-    line: spacing 1px; position: relative;
+position: relative;
     bottom: 300px;
     padding: 35px;
     margin: 35px;
